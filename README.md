@@ -17,6 +17,8 @@ Features
 •	Rotary Encoder User Interface
 All functions are integrated into a single handheld device.
 
+![screenshot](https://github.com/Nobcha/R909-tester/blob/main/R909-tester._Block.jpg)
+
 Lチカから一歩進み、
 
 •	OLED表示
@@ -35,7 +37,7 @@ Hardware
 •	Buzzer
 •	Test Terminals
 The design emphasizes simplicity and low cost while remaining useful for everyday electronics experiments.
-![screenshot](https://github.com/Nobcha/R909-tester/blob/main/R909-tester._Block.jpg)
+![screenshot](https://github.com/Nobcha/R909-tester/blob/main/R909-tester._SCM.jpg)
 ________________________________________
 Software
 The firmware is written using Arduino IDE.
@@ -44,19 +46,20 @@ GitHub Repository:　https://github.com/Nobcha/R909-tester
 ![screenshot](https://github.com/Nobcha/R909-tester/blob/main/CAP_STATE_FLOW.jpg)
 ________________________________________
 Development Articles
-Detailed development logs are available on my Hatena Blog.
+Detailed development logs are available on my Hatena Blog.　　　 https://nobcha23.hatenablog.com/
 
-•	Continuity Tester　　　 https://nobcha23.hatenablog.com/
+•	Continuity Tester       https://nobcha23.hatenablog.com/entry/2026/06/13/225418
 
-•	Capacitor Meter　　　 
+•	Capacitor Meter　　　    https://nobcha23.hatenablog.com/entry/2026/06/18/003604
 
-•	Frequency Counter　　 
+•	Frequency Counter　　    https://nobcha23.hatenablog.com/entry/2026/06/21/200513
 
-•	State Machine Design　
+•	State Machine Design　   https://nobcha23.hatenablog.com/entry/2026/06/25/160209
 
 •	Diode Identification　　
 
-The project is still evolving as a practical learning platform for RP2040 development.　　 https://chitose6thplant.fc2.page/r909-tester/ ________________________________________
+The project is still evolving as a practical learning platform for RP2040 development.　　 
+https://chitose6thplant.fc2.page/r909-tester/ ________________________________________
 This project is intended as a practical RP2040 learning platform.
 
 RP2040活用事例として継続的に機能追加を行っています。
